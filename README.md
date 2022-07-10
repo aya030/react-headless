@@ -10,7 +10,7 @@ headlessUI + TailwindCSS を React プロジェクトにダウンロードし、
 ```
 
 git clone https://github.com/aya030/react-headless.git
-cd react-app_setting
+cd react-headless
 npm install
 
 ```
